@@ -6,7 +6,7 @@ LiveVR Studio は、VRM 形式のモデルを表示し、配信や動画収録�
 
 モデルを作成する方向けのマニュアルは、このリポジトリの Wiki にあります。
 
-- [LiveVR 作成者向けマニュアル](https://github.com/VTuber-Lab-dev/LiveVRStudio/wiki)
+- [LiveVR 作成者向けマニュアル](https://github.com/vtuberlab/LiveVRStudio/wiki)
 
 対応形式や制限、表情や揺れ物の前提など、モデルを作るときに知っておくとよい仕様をまとめています。
 
