@@ -1,0 +1,11 @@
+{
+  "latestVersion": "0.1.0",
+  "minimumVersion": "0.0.0",
+  "channelState": "active",
+  "steamUrl": "",
+  "message": "",
+  "assets": {
+    "windows": { "url": "", "sha256": "" },
+    "macos": { "url": "", "sha256": "" }
+  }
+}
