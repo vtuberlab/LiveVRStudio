@@ -1,11 +1,1 @@
-{
-  "latestVersion": "0.1.0",
-  "minimumVersion": "0.0.0",
-  "channelState": "active",
-  "steamUrl": "",
-  "message": "",
-  "assets": {
-    "windows": { "url": "", "sha256": "" },
-    "macos": { "url": "", "sha256": "" }
-  }
-}
+{"signature":"hCuiHHAVbKygrDZC6nc97CA00DcPH3chRI7ozsOEoc0DZB5xGtCvGGwFStphjgvKW8FB55ElTF3Q4QuyZMygDQ==","latestVersion":"0.1.0","minimumVersion":"0.0.0","channelState":"active","steamUrl":"","message":"","assets":{"windows":{"url":"https://github.com/vtuberlab/LiveVRStudio/releases/download/v0.1.0/LiveVRStudio-0.1.0-win.zip","sha256":"eb1c481b4919260b4ae1ef08aba5e15deeb50197c2507b98636d93ee9b165ff0"},"macos":{"url":"https://github.com/vtuberlab/LiveVRStudio/releases/download/v0.1.0/LiveVRStudio-0.1.0-mac.zip","sha256":"9c0959335b3abf2970c1746c7bba9f18e4fba0dfe352e377533d95c585d76f9e"}}}
