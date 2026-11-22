@@ -10,6 +10,12 @@ LiveVR Studio は、VRM 形式のモデルを表示し、配信や動画収録�
 
 対応形式や制限、表情や揺れ物の前提など、モデルを作るときに知っておくとよい仕様をまとめています。
 
+## 配信ツール連携
+
+Streamer.bot から LiveVR Studio を操作する手順（Twitch のチャンネルポイント引換で表情・背景を切り替えるなど）は、次の手順書にあります。
+
+- [Streamer.botからLiveVR Studioを操作する](docs/streamerbot-guide.md)
+
 ## 公式サイト
 
 - [VTuber Lab](https://vtuber-lab.jp/)
